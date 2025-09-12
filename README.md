@@ -1,5 +1,7 @@
 # 🚀 ArgoCD-Installation-on-Ubuntu-22.04
 
+![Argo-CD](https://github.com/user-attachments/assets/0894b78a-924a-4478-b1d3-126e6da3727a)
+
 ## 📌 Prerequisites
 
 * A running Kubernetes cluster
